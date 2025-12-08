@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a game designer and web developer with experience in developing gameplay mechanics, UI/UX systems, and full-stack web applications. My background combines creative design with technical implementation—allowing me to build interactive games and scalable online platforms. I value clean code, meaningful player experience, and accessible design.
+I am a game developer and web developer with experience in developing gameplay mechanics, UI/UX systems, and full-stack web applications. My background combines creative design with technical implementation—allowing me to build interactive games and scalable online platforms. I value clean code, meaningful player experience, and accessible design.
 
 
 ## 🌐 Socials:
