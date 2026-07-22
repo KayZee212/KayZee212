@@ -1,5 +1,6 @@
 #  About Me:
-I am a game developer and web developer with experience in developing gameplay mechanics, UI/UX systems, and full-stack web applications. My background combines creative design with technical implementation—allowing me to build interactive games and scalable online platforms. I value clean code, meaningful player experience, and accessible design.
+I'm an IT graduate with a strong passion for IT support, troubleshooting, and system administration. I enjoy diagnosing technical issues, improving system reliability, and continuously expanding my knowledge through hands-on labs, certifications, and real-world projects. Alongside my interest in IT, I also develop games using Unity and C#, where I apply problem-solving, programming, and software design skills to create interactive experiences. Whether I'm resolving technical challenges or building game systems, I'm driven by curiosity, continuous learning, and a commitment to delivering reliable, high-quality solutions.
+
 
 
 ##  Socials:
